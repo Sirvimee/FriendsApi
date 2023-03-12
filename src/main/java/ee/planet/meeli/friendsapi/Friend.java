@@ -16,7 +16,7 @@ public class Friend {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
     private String firstname;
-    private  String lastname;
+    private String lastname;
     private String department;
     private String email;
     private String country;

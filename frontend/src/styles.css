@@ -2,6 +2,10 @@
 @import "~bootstrap/dist/css/bootstrap.css";
 @import "~font-awesome/css/font-awesome.css";
 
+.navbar-brand{
+  margin-left: 20px;
+}
+
 .container{
   margin-top:5%;
 }
@@ -10,7 +14,7 @@
   padding: 10px;
 }
 .btn{
-  margin-right: 10px;
+  margin-right: 20px;
 }
 .fa {
   margin-right: 10px;
@@ -22,4 +26,10 @@ table .btn{
 
 .form-group{
   margin-top: 10px;
+}
+
+.home-banner {
+  margin-top: 20px;
+  justify-content: center;
+  text-align: center;
 }
